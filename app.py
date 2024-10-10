@@ -1,5 +1,5 @@
 pip install google-generativeai
-
+git add requirements.txt
 import streamlit as st
 import os
 import google.generativeai as genai
